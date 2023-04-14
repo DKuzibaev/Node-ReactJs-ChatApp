@@ -1,5 +1,7 @@
 # Node-ReactJs-ChatApp
 
+## Everything is loaded into the project branch, so don't forget this moment when cloning!
+
 ## First you need to install the following libraries
 
 ### For BackEnd 
